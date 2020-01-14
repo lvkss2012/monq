@@ -77,3 +77,7 @@ Updating API documentation
 --------------------------
 
 `npm run jsdoc2md`
+
+# frok说明
+升级中间件依赖包后，monq连接数据库部分报错。原因是monq中依赖的mongojs版本太老。因此fork了monq的库
+将其依赖的包升级到最新版本，重新发布到http://npm.ezbim.cn:3038

@@ -1,5 +1,5 @@
 {
-  "name": "monq",
+  "name": "monq-yz",
   "version": "1.0.0",
   "description": "MongoDB-backed job queue for Node.js",
   "homepage": "http://github.com/scttnlsn/monq",
